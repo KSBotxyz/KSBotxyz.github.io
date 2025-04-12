@@ -1,0 +1,11 @@
+rs.kreme.ksbot.api
+rs.kreme.ksbot.api.game
+rs.kreme.ksbot.api.game.magic
+rs.kreme.ksbot.api.game.pathing
+rs.kreme.ksbot.api.hooks
+rs.kreme.ksbot.api.hooks.widgets
+rs.kreme.ksbot.api.interfaces
+rs.kreme.ksbot.api.queries
+rs.kreme.ksbot.api.scripts
+rs.kreme.ksbot.api.scripts.task
+rs.kreme.ksbot.api.wrappers
